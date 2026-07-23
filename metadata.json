@@ -1,0 +1,6 @@
+{
+  "name": "전국 지자체 연락처 안내",
+  "description": "전국 광역시·도 및 시·군·구청 민원실 대표 전화번호와 공식 홈페이지 검색 및 카테고리별 안내 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
